@@ -14,7 +14,3 @@ def test_product():
 def test_palindrom():
     assert funkcje.palindrom("madam")
     assert funkcje.palindrom("ala")
-
-test_product()
-test_dodawanie()
-test_palindrom()
