@@ -13,3 +13,4 @@ else:
     print("Filed")
 
 print(dzielenie(10,1)==2)
+
